@@ -1,1 +1,3 @@
-# mobile_4_2
+Course: "Mobile development"
+Homework N 4
+Part 2
